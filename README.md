@@ -18,18 +18,20 @@ All the stimuli sources are based on `pwl` function of HSPICE and the specific c
 
 ## Content
 
-> ├───doc
-> ├───example
-> │   ├───cpu_sim
-> │   │   ├───case1
-> │   │   ├───netlist
-> │   │   └───source
-> │   └───models
-> │       ├───45nm
-> │       └───7nm
-> ├───version1
-> ├───version2
-> └───version
+```
+├───doc
+├───example
+│   ├───cpu_sim
+│   │   ├───case1
+│   │   ├───netlist
+│   │   └───source
+│   └───models
+│       ├───45nm
+│       └───7nm
+├───version1
+├───version2
+└───version
+```
 
 The doc folder contains the images of the README.
 
